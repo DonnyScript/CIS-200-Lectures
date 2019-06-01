@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	
-
+int twoDimArray[2][3];
 
 
 
