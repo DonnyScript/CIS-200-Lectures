@@ -1,0 +1,33 @@
+#+TITLE: Lecture 7
+
+* Lists 
+** Most usefull with vectors 
+*** for( 'type' assigned_name : collection ){}
+** Add something in a sorted order incert(position, newElement) 
+ 
+* Stacks
+** Watch stack portion of lecture  
+** F.I.F.O
+*** First In First Out 
+
+* Queue
+** Common functions
+*** push(), pop(), front(), back(), size()
+**** push(): new element to tail
+**** pop(): removes element at head of the queue
+**** front(): returns element at front of the line 
+**** bakc(): returns the last element of a que 
+**** size(): returns the size of queue 
+* project notes
+** distance is pythog therom
+*** the distance between two points
+*** when it says moves along vector(1,1) thats how many points it moves by 
+** for unit tests 
+*** assert::areeual(1.01,1.02.01)
+** can make the ship functions pure virtual
+** 
+
+* Enum
+** enum name(values)
+** values are assinged a name 
+* List() and Que() in lab, Maps are usefull
