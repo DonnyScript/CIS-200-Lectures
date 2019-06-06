@@ -25,7 +25,6 @@
 ** for unit tests 
 *** assert::areeual(1.01,1.02.01)
 ** can make the ship functions pure virtual
-** 
 
 * Enum
 ** enum name(values)
