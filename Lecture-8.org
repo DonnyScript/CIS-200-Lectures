@@ -1,0 +1,13 @@
+#+TITLE: Lecture 8 Recursion 
+
+
+* Backtracking 
+** Create 
+*** Create the board 
+*** Fill the board 
+*** Make the pice K for knight 
+*** print the board 
+** Solve 
+*** Create base solution in recursive funtion 
+**** all spaces accounted for 
+*** 
