@@ -1,0 +1,7 @@
+#+TITLE: Lecture 9  Mid-term/Project 2
+
+* hypo
+
+* Dont use .insert for making status
+
+* no "What happnes when this runs" 
