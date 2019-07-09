@@ -1,6 +1,6 @@
 .DA
 .TL 
-lecture 8
+lecture 10
 .AU
 Donovan McCarthy 
 .AI
