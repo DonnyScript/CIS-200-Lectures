@@ -1,3 +1,4 @@
+.so macros
 .DA
 .TL 
 lecture 10
@@ -15,4 +16,5 @@ For recursion base case and modify
 .IP \[bu]
 include copy assignment operator in the rule of three
 .RE
-
+.BP
+DID THIS WORK?
