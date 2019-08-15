@@ -45,10 +45,30 @@ The derived class only shows additional members
 OOP Concepts
 .RS
 .BP
+1. Encapsulation not giving things to you shouldnt have access to
+.BP
+2. Abstraction
+.BP
+3.Polymorphism 
+.BP
+Virtual
 .RE
 .NH
 Stacks and Queues
 .RS
 .BP
 A stack is like a pile of paper V's a queue is like shopping line 
+.RE
+.NH
+Linked list
+.RS
+.BP
+Walk = setting current node to it's next node 
+.RE
+.NH
+Final notes
+.RS
+.BP 
+4 programming questions(answer 3, get rid of worst one), essay style (ethics, UML)
+.BP
 
