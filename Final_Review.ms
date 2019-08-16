@@ -9,21 +9,19 @@ University of Michigan Dearborn
 Stuff on Exam
 .RS
 .BP
-Linked List -> Not Done
-.BP
 UML ->Done
+.BP
+Templates classes/structs/functions -> Done
+.BP 
+Ethics -> Done: Use website on the lab
 .BP 
 OOP Concepts -> Done
 .BP
 stacks and queues -> Done 
 .BP 
-unit tests -> Watch lecture but pretty much good on this one 
-.BP
-Templates classes/structs/functions -> Review this on zyBooks 
+unit tests -> Done
 .BP
 Sorting -> Need to study 
-.BP 
-Ethics -> Ask what rubric we are going to use on the final 
 .BP
 Liked Lists -> Need to study 
 .RE
@@ -85,7 +83,7 @@ You can declare it above classes and functions, to have a custom type
 .BP 
 for a class you can do: "Class Name"<type> "variable name"(values) 
 .BP
- 
+You can also have two types like so: template<typename T1, typename T2>
 .RE
 .NH
 Final notes
